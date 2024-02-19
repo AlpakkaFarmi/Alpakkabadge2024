@@ -5,6 +5,8 @@ Alpakkabadge2024 - Created originally for Disobey 2024
 
 Schematic: https://github.com/AlpakkaFarmi/Alpakkabadge2024/blob/main/hw/alpakkabadge_schematic_v6.pdf
 
+Binary: https://github.com/AlpakkaFarmi/Alpakkabadge2024/releases/download/1.0/alpakkabadge.uf2
+
 # Getting Started
 
 ## 1. Remove battery power
